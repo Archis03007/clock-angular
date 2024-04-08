@@ -15,7 +15,7 @@ export class ClockDisplayComponent {
     this.setTime(); // Call setTime when the component initializes
     setInterval(() => {
       this.setTime(); // Update time every second
-    }, 100);
+    }, 1000);
   }
 
   setTime() {
