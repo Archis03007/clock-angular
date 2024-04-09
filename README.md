@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
 
 
-working demo  https://ios14clock.netlify.app/clock
+working demo  https://ios14clock.netlify.app
 
 ## Development server
 
