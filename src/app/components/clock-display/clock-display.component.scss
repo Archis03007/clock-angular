@@ -13,11 +13,13 @@
 
 .clock {
   color: #0c4d61;
-  font-size: 320px;
-  font-family: fantasy;
+  font-size: 260px;
+  // font-family: fantasy;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 800;
   z-index: 2;
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -37,8 +39,8 @@
 /* Tablet Styles */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .clock {
-    top: 56%;
-    font-size: 220px;
+    top: 57%;
+    font-size: 160px;
 
   }
 }
